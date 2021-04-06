@@ -1,5 +1,5 @@
 Body {
-    background: rgb(206, 206, 206);
+    background: rgb(194, 194, 194);
 }
 
 header {
@@ -12,7 +12,7 @@ section {
     height: 80vh;
     width: 50vw;
     margin-left: 25%;
-    background: white;
+    background: rgb(230, 230, 230);
 }
 
 footer {
