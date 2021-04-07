@@ -1,3 +1,8 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
 header {
     height: 100px;
     width: 100%;
@@ -16,4 +21,28 @@ header {
     margin: 5%;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
+}
+
+.row-1 {
+    background-color: rgb(51, 123, 230);
+    height: 120px;
+    width: 100%;
+}
+
+.row-2 {
+    background-color: rgb(52, 241, 185);
+    height: 120px;
+    width: 100%;
+}
+
+.row-3 {
+    background-color: rgb(155, 238, 61);
+    height: 120px;
+    width: 100%;
+}
+
+.row-4 {
+    background-color: rgb(255, 224, 47);
+    height: 120px;
+    width: 100%;
 }
